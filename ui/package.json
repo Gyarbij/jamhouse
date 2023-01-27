@@ -47,7 +47,7 @@
     "remark-gfm": "1.0.0",
     "slugify": "^1.4.6",
     "spark-md5": "^3.0.1",
-    "ua-parser-js": "^0.7.24",
+    "ua-parser-js": "^0.7.33",
     "use-minimal-state": "^3.5.0",
     "watsign": "^0.1.8"
   }
